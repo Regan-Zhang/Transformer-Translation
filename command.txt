@@ -1,0 +1,1 @@
+python train.py -src_data data/english.txt -trg_data data/french.txt -src_lang en_core_web_sm  -trg_lang fr_core_news_sm  -epochs 10
